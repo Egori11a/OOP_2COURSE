@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblab0_lib.a CMakeFiles/lab0_lib.dir/src/array.cpp.o CMakeFiles/lab0_lib.dir/src/figure.cpp.o CMakeFiles/lab0_lib.dir/src/figureValidator.cpp.o CMakeFiles/lab0_lib.dir/src/point2d.cpp.o CMakeFiles/lab0_lib.dir/src/rectangle.cpp.o CMakeFiles/lab0_lib.dir/src/rectangleValidator.cpp.o CMakeFiles/lab0_lib.dir/src/square.cpp.o CMakeFiles/lab0_lib.dir/src/squareValidator.cpp.o CMakeFiles/lab0_lib.dir/src/triangle.cpp.o CMakeFiles/lab0_lib.dir/src/triangleValidator.cpp.o CMakeFiles/lab0_lib.dir/src/vector.cpp.o
+/usr/bin/ranlib liblab0_lib.a
